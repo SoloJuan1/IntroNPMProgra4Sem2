@@ -1,0 +1,5 @@
+// archivos que ignorara en github
+//ej 1-> index.js
+//ej 2-> *js
+ //ej 3->  *json
+ //ej 4->  imagenes
